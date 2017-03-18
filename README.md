@@ -9,8 +9,11 @@ This is the freeware version and you can use freely for both personal and commer
 ### Installation & Usage
 
 - Download the [Zip File Here](https://github.com/stonelanditdev/fontstl/raw/master/font-stl.zip) and Unzip it.
+
 - Copy fonts folder and style.css into your project directory.
-- Add the below code into your project index file.
+
+- Add the below code into your project html < head > tag file.
+
 
 ```markdown
 Syntax highlighted code block
@@ -20,8 +23,9 @@ Syntax highlighted code block
   <link rel="stylesheet" href="styles.css">
 </head>
 
+Sample Usage Codes.
 <body>
-  <div class="icon fs-amazon"></div>
+  <div class="fs-amazon"></div>
   <input type="text" readonly="readonly" value='class="fs-amazon"'>
 <body>
 
