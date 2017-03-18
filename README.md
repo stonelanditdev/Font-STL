@@ -1,37 +1,36 @@
-## Welcome to GitHub Pages
+## Font STL Version 1.0.2
 
-You can use the [editor on GitHub](https://github.com/stonelanditdev/fontstl/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+### The iconic font and CSS framework
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Font STL is a full package font of graphic font for your website beautify and speed up your website loading speed by reducing the image usage.
 
-### Markdown
+This is the freeware version and you can use freely for both personal and commercial usage.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Installation & Usage
+
+- Download the [Zip File Here](https://github.com/stonelanditdev/fontstl/raw/master/font-stl.zip) and Unzip it.
+- Copy fonts folder and style.css into your project directory.
+- Add the below code into your project index file.
 
 ```markdown
 Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+<head>
+  <title>Font STL</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
 
-- Bulleted
-- List
+<body>
+  <div class="icon fs-amazon"></div>
+  <input type="text" readonly="readonly" value='class="fs-amazon"'>
+<body>
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Download the [Zip File Here](https://github.com/stonelanditdev/fontstl/raw/master/font-stl.zip).
 
-### Jekyll Themes
+### Reference
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/stonelanditdev/fontstl/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+We added icons-reference.html for graphic icon usage. You can easily double click on that file and see how to use this graphic icon in html class.
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Thanks for using our font.
