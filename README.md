@@ -6,6 +6,12 @@ Font STL is a full package of graphic font for your website beautify and speed u
 
 This is the freeware version and you can use freely for both personal and commercial usage.
 
+### Font STL CDN
+
+```markdown
+  <link rel="stylesheet" href="https://cdn.rawgit.com/stonelanditdev/Font-STL/orphan/styles.css">
+```
+
 ### Installation & Usage
 
 - Download the [Zip File Here](https://github.com/stonelanditdev/fontstl/raw/master/font-stl.zip) and Unzip it.
